@@ -1,5 +1,5 @@
 
-<a href="https://bit.ly/3koZRGY"><img src="PNGaswathy.png" alt="google-font" border="0"></a>
+
 <div align="center">
         <img src="Aswathyy.jpg" alt="GIF" width="250" height="200"/>
 </p>
