@@ -21,15 +21,15 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + *Anandh* +`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.PLK +`
     
     ----- ` + Config.BOTSK + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
-│❖ *ᴀᴜᴛʜᴏʀ* : Anandh
+│❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : https://instagram.com/kl_35_pala_karannn?utm_medium=copy_link
-│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : https://wa.me/918848120533
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
+│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
