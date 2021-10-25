@@ -5,24 +5,33 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
-    var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
+    var r_text = new Array ();
+    
+    
+   
+  r_text[0] = "https://i.imgur.com/JDAq7br.jpeg";
+    
+    
+    var i = Math.floor(1*Math.random())
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
+    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater Anandh *
 
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Pinky Bot making video : coming soon😊*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Pinky githublink : https://github.com/Monuzz-Mkz/Pinky*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
+*Aswathy githublink : https://github.com/Monuzz-Mkz/aswathyy*
 
-*For More Updates Subscribe The Channel ☝*
+*Aswathy Bot making video : https://youtu.be/7Q01xo8jJw4*
+
+*Public Bot Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
+
+*Bot Supporting Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
 `}) 
 
 }));
