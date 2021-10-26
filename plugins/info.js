@@ -35,6 +35,8 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
                ` + Config.BOTSK + `
     
     ⚡ ` + Config.AFN + ` ⚡
+Create your bot: https://youtu.be/7Q01xo8jJw4
+Developer : https://wa.me/918848120533
 `}) 
 
 }));
