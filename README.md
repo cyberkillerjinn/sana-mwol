@@ -1,25 +1,25 @@
 
 
 <div align="center">
-        <img src="Aswathyy.jpg" alt="GIF" width="250" height="200"/>
+        <img src="sana mwol.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
 
-## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Aswathy+WA+Bot+repo;Created+by+Anandh+Saji;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Sana mwol+WA+Bot+repo;Created+by+Adhil+muhammed;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="Anandh Saji" src="https://img.shields.io/badge/Anandh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Adhil muhammed" src="https://img.shields.io/badge/adhil-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Monuzz-Mkz/aswathyy"><img title="Author" src="https://img.shields.io/badge/Author-Monuzz-Mkz?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/cyberkillerjinn/sana mwol"><img title="Author" src="https://img.shields.io/badge/Author-cyberkillerjinn?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Monuzz-Mkz/aswathyy">Monuzz-Mkz</a> to make it public
+Project created by <a href="https://github.com/cyberkillerjinn/sana mwol">cyberkillerjinn</a> to make it public
     <br>
        | © |
         Reserved |
@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/Monuzz-Mkz/aswathyy">Monuzz-Mkz</
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/kl_35_pala_karannn?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/adhil__muhammed_s_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/Monuzz-Mkz/aswathyy">Monuzz-Mkz</
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Monuzz-Mkz&show_icons=true&theme=dark&locale=en" alt="Monuzz-Mkz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberkillerjinn&show_icons=true&theme=dark&locale=en" alt="cyberkillerjinn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Monuzz-Mkz&theme=dark" alt="Monuzz-Mkz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberkillerjinn&theme=dark" alt="cyberkillerjinn" /></p>
 </p>
 
 
@@ -52,7 +52,7 @@ Project created by <a href="https://github.com/Monuzz-Mkz/aswathyy">Monuzz-Mkz</
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/CgWt3VG4FMtAhPPJiRAivW" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/DslsYRzn7SfBeRWydGPnUo" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -61,7 +61,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/CgWt3VG4FMtAhPPJiRAivW" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/DslsYRzn7SfBeRWydGPnUo" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -71,7 +71,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Monuzz-Mkz/aswathyy.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/cyberkillerjinn/sana mwol.git)
      </div>
 <br>
 <br >
@@ -91,7 +91,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Monuzz-Mkz/aswathyy
+$ git clone https://github.com/cyberkillerjinn/sana mwol
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -101,7 +101,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Monuzz-Mkz/aswathyy
+$ git clone https://github.com/cyberkillerjinn/sana mwol
 $ cd pikachu
 $ chmod +x *
 $ npm i
@@ -122,9 +122,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![Monuzz-Mkz](https://github.com/Monuzz-Mkz/aswathyy.png?size=100)](https://github.com/Monuzz-Mkz/aswathyy) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![cyberkillerjinn](https://github.com/cyberkillerjinn/sana mwol.png?size=100)](https://github.com/cyberkillerjinn/sana mwol) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/Monuzz-Mkz/aswathyy) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/cyberkillerjinn/sana mwol) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
