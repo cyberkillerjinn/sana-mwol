@@ -1,7 +1,7 @@
 
 
 <div align="center">
-        <img src="Sana mwol.jpg" alt="GIF" width="250" height="200"/>
+        <img src="sana mwol.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
