@@ -1,12 +1,12 @@
 
 
 <div align="center">
-        <img src="sana mwol.jpg" alt="GIF" width="250" height="200"/>
+        <img src="Sana mwol.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
 
-## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Sana mwol+WA+Bot+repo;Created+by+Adhil+muhammed;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Sana-mwol+WA+Bot+repo;Created+by+Adhil+muhammed;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -15,11 +15,11 @@
 <a href="#"><img title="Adhil muhammed" src="https://img.shields.io/badge/adhil-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/cyberkillerjinn/sana mwol"><img title="Author" src="https://img.shields.io/badge/Author-cyberkillerjinn?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/cyberkillerjinn/Sana-mwol"><img title="Author" src="https://img.shields.io/badge/Author-cyberkillerjinn?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberkillerjinn/sana mwol">cyberkillerjinn</a> to make it public
+Project created by <a href="https://github.com/cyberkillerjinn/Sana-mwol">cyberkillerjinn</a> to make it public
     <br>
        | © |
         Reserved |
@@ -91,7 +91,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/cyberkillerjinn/sana mwol
+$ git clone https://github.com/cyberkillerjinn/Sana-mwol
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -101,7 +101,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberkillerjinn/sana mwol
+$ git clone https://github.com/cyberkillerjinn/Sana-mwol
 $ cd pikachu
 $ chmod +x *
 $ npm i
@@ -122,9 +122,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![cyberkillerjinn](https://github.com/cyberkillerjinn/sana mwol.png?size=100)](https://github.com/cyberkillerjinn/sana mwol) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![cyberkillerjinn](https://github.com/cyberkillerjinn/Sana-mwol.png?size=100)](https://github.com/cyberkillerjinn/Sana-mwol) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/cyberkillerjinn/sana mwol) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/cyberkillerjinn/Sana-mwol) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
